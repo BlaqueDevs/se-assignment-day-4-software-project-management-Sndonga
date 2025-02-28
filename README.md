@@ -91,9 +91,37 @@ Work Packages: Smaller tasks or activities required to complete the deliverables
 6. Enhances Communication as it serves as a communication tool to ensure all team members and stakeholders understand the project’s structure and tasks.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+**Benefits**
+ 1. Ensures tasks are completed on time.
+ 2. Ensures resources are allocated efficiently.
+ 3. The project stays on track.
+ 4. A well-structured schedule provides clarity.
+ 5. Improves communication.
+ 6. Helps manage risks.
+Gantt charts are a popular tool for visualizing and managing project schedules.
+1. Highlights dependencies between tasks, ensuring that tasks are completed in the correct order.
+2. Allows project managers to track the progress of tasks and identify delays.
+3. Helps allocate resources by showing when and where they are needed.
+4. Highlights key milestones, such as project phases or deliverables. Allowing for milestone tracking.
+5. Allows project managers to simulate different scenarios and adjust the schedule as needed.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The difficulty od accessing specific niche items all in one place here in Kenya specifically Coquette outfits, accessories, Home decor amd stationeries. One has to search through multiple online locations and in person. Online most of these items are meant for American, European and Asian consumers, hence they are in dollars and the process of naviagting shipping is exhausting. All in all it is time consuming, expensive and complex. Thos software aims at taking care of all of that and giving the consume an easy experience.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem ensures that the development team understands the issue at hand, aligns the solution with stakeholder expectations, and focuses on delivering value.  provides a clear scope, guides requirement gathering, and facilitates better design and planning.
+It improves communication, enables effective prioritization, reduces the risk of building the wrong solution, and enhances testing and validation.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+1. Start with the Problem - Clearly state the problem your software solution addresses. This helps the audience understand the context and why the solution is needed.
+2. Introduce the Solution - Describe your software solution in simple terms, focusing on what it does rather than how it works.
+3. Highlight Key Features - Mention the main features of the solution in a way that emphasizes their benefits, not their technical implementation.
+4. Explain the Benefits - Focus on the tangible and intangible benefits your solution provides to users.
+5. Use Relatable Analogies or Comparisons to make the solution more relatable.
+6. End with a Call to Action - Encourage the audience to take the next step, whether it’s trying a demo, visiting your website, or contacting your team.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
