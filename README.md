@@ -106,7 +106,7 @@ Gantt charts are a popular tool for visualizing and managing project schedules.
 5. Allows project managers to simulate different scenarios and adjust the schedule as needed.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-The difficulty od accessing specific niche items all in one place here in Kenya specifically Coquette outfits, accessories, Home decor amd stationeries. One has to search through multiple online locations and in person. Online most of these items are meant for American, European and Asian consumers, hence they are in dollars and the process of naviagting shipping is exhausting. All in all it is time consuming, expensive and complex. Thos software aims at taking care of all of that and giving the consume an easy experience.
+The difficulty of accessing specific niche items all in one place here in Kenya specifically Coquette outfits, accessories, Home decor and stationeries. One has to search through multiple online locations and in person. Online most of these items are meant for American, European and Asian consumers, hence they are in dollars and the process of navigating shipping is exhausting. All in all it is time consuming, expensive and complex. This software aims at taking care of all of that and giving the consume an easy experience.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly defining the problem ensures that the development team understands the issue at hand, aligns the solution with stakeholder expectations, and focuses on delivering value.  provides a clear scope, guides requirement gathering, and facilitates better design and planning.
@@ -121,7 +121,37 @@ It improves communication, enables effective prioritization, reduces the risk of
 6. End with a Call to Action - Encourage the audience to take the next step, whether it’s trying a demo, visiting your website, or contacting your team.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-
+1. Localized Product Catalog that curate a catalog of niche items specifically tailored to Kenyan consumers, including Coquette outfits, accessories, home décor, and stationeries. Unlike international platforms, my software will focus on products that are relevant and accessible to Kenyan users, eliminating the need to search through foreign websites.
+2. Using the Kenyan Shilling Pricing by display all prices in Kenyan Shillings (KES) to avoid confusion and hidden costs associated with currency conversion. Eliminates the frustration of dealing with dollar prices and provides transparency for Kenyan consumers.
+3. Simplified Shipping and Delivery. Offers a streamlined shipping process with clear delivery timelines and affordable rates as Kenyan consumers often face challenges with international shipping, such as high costs and long wait times. Your software will simplify this process.
+4. Local Payment Options like M-Pesa, Airtel Money, and credit/debit cards. Many international platforms don’t support Kenyan payment methods, making transactions difficult for local users.
+5. Curated Collections where products are organized into curated collections based on  seasons, or themes (e.g., "Coquette Summer Collection" ). Making it easier for users to discover niche items without spending hours searching.
+6. Loyalty program offers where users earn points for purchases, reviews, and referrals encouraging repeat purchases and builds customer loyalty.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
-## 13. How can understanding market trends inform your software’s positioning and development?
+E-Commerce Growth: Kenya’s e-commerce market is projected to grow at a CAGR of 10.5% from 2023 to 2028, reaching a market volume of $3.5 billion by 2028 (Statista, 2023).
+Internet Penetration: As of 2023, Kenya’s internet penetration rate is ~46%, with over 24 million internet users (DataReportal, 2023).
+Mobile Money: Over 80% of Kenyans use mobile money services like M-Pesa, making it a key driver for e-commerce growth.
+For my software this means: 
+The growing e-commerce market provides a strong foundation for your software.
+Mobile-first design and integration with M-Pesa will be critical for success.
+Global Coquette Fashion Trend: The Coquette aesthetic, characterized by feminine, vintage-inspired clothing and accessories, has gained popularity on platforms like TikTok and Instagram, with millions of posts under hashtags like #CoquetteAesthetic and #CoquetteFashion.
+Home Décor and Stationery: The global home décor market is expected to grow at a CAGR of 4.3% from 2023 to 2030, while the stationery market is projected to grow at a CAGR of 3.5% during the same period (Grand View Research, 2023).
+Implications for my Software:
+The Coquette trend is gaining traction globally and is likely to appeal to young, fashion-conscious consumers in Kenya.
+Home décor and stationery are evergreen markets with steady growth potential.
+Youth Population: Kenya has a young population, with ~75% of the population under 35 years old (World Bank, 2023). This demographic is highly active on social media and likely to embrace niche fashion trends like Coquette.
+Urbanization: Kenya’s urban population is growing rapidly, with cities like Nairobi, Mombasa, and Kisumu driving demand for lifestyle and fashion products.
+Middle-Class Growth: Kenya’s middle class is expanding, with increasing disposable income and a growing appetite for unique, high-quality products.
+Implications for the Software:
+Your target audience (young, urban, middle-class Kenyans) is large and growing.
+Social media integration and influencer marketing will be effective strategies to reach this audience.
+Existing Platforms: Platforms like Jumia, Kilimall, and Masoko dominate Kenya’s e-commerce market but often lack niche product offerings.
+Niche Competitors: Smaller platforms like KikoRomeo (fashion) and Mookh (home décor) cater to niche markets but have limited reach.
+Implications for the Software:
+There is a gap in the market for a platform that specializes in niche items like Coquette fashion, home décor, and stationeries.
+By focusing on a specific niche, you can differentiate yourself from larger, generalist platforms.
+Social Media Influence: Platforms like Instagram and TikTok are powerful tools for promoting niche trends like Coquette fashion.
+Local Partnerships: Partnering with local sellers and influencers can help you build a loyal customer base.
+Scalability: Once established in Kenya, your platform could expand to other East African markets with similar demographics and consumer behavior.
+
