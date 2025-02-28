@@ -72,6 +72,24 @@ Delivery	                            Single delivery at the end of the project. 
 5. High-quality software provides a competitive edge in the market.
    
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+**How Defining Scope Contributes to Success**
+1. Clarity and Focus as it clearly defines what is (and isn’t) part of the project, ensuring everyone is aligned.
+2. Prevents Scope Creep as it helps avoid uncontrolled changes or additions to the project, which can lead to delays and budget overruns.
+3. Resource Allocation by ensuring resources (time, money, personnel) are allocated efficiently to meet project goals.
+4. Stakeholder Alignment by ensures all stakeholders have a shared understanding of the project’s goals and deliverables.
+5. Risk Management by identifying potential risks early and allows for proactive planning.
+** What is the WBS?**
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of the project into smaller, manageable components. It breaks down the project into:
+Deliverables: High-level outcomes or products.
+Work Packages: Smaller tasks or activities required to complete the deliverables.
+**Why is a WBS Useful?**
+1. Organizes the Project and provides a clear, visual representation of the project’s structure and tasks.
+2. Facilitates Planning and helps identify all tasks and activities required to complete the project.
+3. Improves Estimation by breaking down the project into smaller, more manageable tasks, making it easier to estimate time, cost, and resources.
+4. Assigns Responsibilities and clearly defines who is responsible for each task or deliverable.
+5.Tracks Progress and provides a framework for monitoring progress and ensuring tasks are completed on time.
+6. Enhances Communication as it serves as a communication tool to ensure all team members and stakeholders understand the project’s structure and tasks.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
